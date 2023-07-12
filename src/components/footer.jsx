@@ -6,8 +6,7 @@ const Footer = () => {
         <footer>
             <p>
                 Created with <i className="fa fa-heart" style={{color: "#FF5252"}}></i> by
-                
-                    Ankit Singh
+                    Ankit Singh & Shankha deep ghosh
             </p>
         </footer>
     );
